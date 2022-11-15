@@ -1,4 +1,4 @@
-# airpollution-PostCode-LookUp
+# Air pollution postcode lookup
 
 Air pollution data provided by defra is divided into grids of square kms, this project aims to create lookup table for joining air pollution data with UK PostCodes.
 
